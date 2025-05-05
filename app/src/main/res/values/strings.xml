@@ -2,5 +2,6 @@
     <string name="app_name">Actions</string>
 
     <string name="title">Git Hub Actions</string>
+    <string name="title_new">Add New Title</string>
 
 </resources>
